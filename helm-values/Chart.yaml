@@ -1,0 +1,4 @@
+apiVersion: v1
+description: NGINX Example with Values
+name: helm-101
+version: 0.1.0
