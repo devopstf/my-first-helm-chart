@@ -1,4 +1,4 @@
 apiVersion: v1
 description: NGINX Example
-name: helm-demo-values
+name: helm-demo
 version: 0.1.0
